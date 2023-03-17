@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$/../../src/main"/>
+	<levels>
+		<level name="Gradle: org.openjfx:javafx-fxml:win:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-controls:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-controls:win:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-graphics:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-graphics:win:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-base:18-ea+6" value="project"/>
+		<level name="Gradle: org.openjfx:javafx-base:win:18-ea+6" value="project"/>
+	</levels>
+</component>
